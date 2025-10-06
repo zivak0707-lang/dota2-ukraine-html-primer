@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+# 🎮 Моя улюблена гра — Dota 2  
+**Лабораторна робота №3**  
+**Тема:** Створення та редагування HTML-документу. Елементи веб-сторінки. Атрибути  
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/a8156157-7723-44af-be18-94e81abe028e
+## 📘 Мета роботи
+Ознайомитися з основами створення та редагування HTML-документів, навчитися використовувати основні елементи та атрибути мови HTML на прикладі власного сайту.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 💡 Опис проєкту
+Цей сайт створено як приклад навчальної роботи з HTML.  
+Тема сайту — **«Моя улюблена гра — Dota 2»**.  
+На сторінці розповідається:
+- що таке Dota 2 і в чому суть гри;  
+- хто є популярними героями;  
+- які турніри проходять у цій грі;  
+- чому ця гра мені подобається;  
+- подані корисні посилання для гравців.
 
-**Use Lovable**
+Сайт містить основні HTML-елементи:
+- заголовки, параграфи, зображення, списки, таблиці, посилання, цитати;  
+- атрибути: `href`, `src`, `alt`, `title`, `width`, `height`, `style`, `lang`;  
+- просте оформлення через CSS у блоці `<style>`.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a8156157-7723-44af-be18-94e81abe028e) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧱 Використані технології
+- **HTML5**  
+- **CSS3**  
+- **Node JS**  
+- **Git**  
+- **ChatGPT (для допомоги у створенні структури сайту)**  
+- **Lovable (для генерації первинного HTML-коду)**  
+- **Visual Studio Code**  
+- **GitHub Pages** (для публікації сайту)
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📸 Зміст сайту
+1. Головна сторінка — заголовок і короткий опис гри.  
+2. Розділ «Про гру» — історія та основні особливості Dota 2.  
+3. Розділ «Популярні герої» — список відомих персонажів.  
+4. Розділ «Турніри» — таблиця найвідоміших змагань із Dota 2.  
+5. Розділ «Чому я люблю цю гру» — особисті враження.  
+6. Футер — автор сайту та рік створення.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 👨‍💻 Автор
+**Zivak Sergiy**  
+Студент, який виконав лабораторну роботу №3  
+Рік створення: **2025**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🌐 Перегляд сайту
+Сайт доступний за посиланням:  
+👉 [https://твій-нік.github.io/dota2-website/](https://твій-нік.github.io/dota2-website/)
 
-# Step 3: Install the necessary dependencies.
-npm i
+*(посилання з’явиться автоматично після активації GitHub Pages у налаштуваннях репозиторію)*
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a8156157-7723-44af-be18-94e81abe028e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🧾 Ліцензія
+Проєкт створено виключно з навчальною метою.  
+Копіювання та публічне використання коду дозволене лише з посиланням на автора.
